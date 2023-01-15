@@ -1,0 +1,2 @@
+To encipher the phrase, we shift (increase) each character in the phrase by 16 UTF-16 (ascii) code unit.
+To decipher the ciphered phrase, we shift back each character in the ciphered phase by 16 ascii code unit
